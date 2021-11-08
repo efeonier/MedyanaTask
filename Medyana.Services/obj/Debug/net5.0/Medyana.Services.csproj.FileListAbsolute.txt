@@ -1,0 +1,17 @@
+/Users/efeonier/RiderProjects/Medyana/Medyana.Services/bin/Debug/net5.0/Medyana.Services.deps.json
+/Users/efeonier/RiderProjects/Medyana/Medyana.Services/bin/Debug/net5.0/Medyana.Services.dll
+/Users/efeonier/RiderProjects/Medyana/Medyana.Services/bin/Debug/net5.0/ref/Medyana.Services.dll
+/Users/efeonier/RiderProjects/Medyana/Medyana.Services/bin/Debug/net5.0/Medyana.Services.pdb
+/Users/efeonier/RiderProjects/Medyana/Medyana.Services/bin/Debug/net5.0/Medyana.Core.dll
+/Users/efeonier/RiderProjects/Medyana/Medyana.Services/bin/Debug/net5.0/Medyana.Data.dll
+/Users/efeonier/RiderProjects/Medyana/Medyana.Services/bin/Debug/net5.0/Medyana.Core.pdb
+/Users/efeonier/RiderProjects/Medyana/Medyana.Services/bin/Debug/net5.0/Medyana.Data.pdb
+/Users/efeonier/RiderProjects/Medyana/Medyana.Services/obj/Debug/net5.0/Medyana.Services.csproj.AssemblyReference.cache
+/Users/efeonier/RiderProjects/Medyana/Medyana.Services/obj/Debug/net5.0/Medyana.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/efeonier/RiderProjects/Medyana/Medyana.Services/obj/Debug/net5.0/Medyana.Services.AssemblyInfoInputs.cache
+/Users/efeonier/RiderProjects/Medyana/Medyana.Services/obj/Debug/net5.0/Medyana.Services.AssemblyInfo.cs
+/Users/efeonier/RiderProjects/Medyana/Medyana.Services/obj/Debug/net5.0/Medyana.Services.csproj.CoreCompileInputs.cache
+/Users/efeonier/RiderProjects/Medyana/Medyana.Services/obj/Debug/net5.0/Medyana.Services.csproj.CopyComplete
+/Users/efeonier/RiderProjects/Medyana/Medyana.Services/obj/Debug/net5.0/Medyana.Services.dll
+/Users/efeonier/RiderProjects/Medyana/Medyana.Services/obj/Debug/net5.0/ref/Medyana.Services.dll
+/Users/efeonier/RiderProjects/Medyana/Medyana.Services/obj/Debug/net5.0/Medyana.Services.pdb
